@@ -22,7 +22,7 @@ const DELETE_VIDEO = "/:id/delete";
 
 const routes = {
     home: HOME,
-    jine: JOIN,
+    join: JOIN,
     login: LOGIN,
     logout: LOGOUT,
     search: SEARCH,
@@ -35,6 +35,6 @@ const routes = {
     videoDetail: VIDEO_DETAIL,
     editVideo: EDIT_VIDEO,
     deleteVideo: DELETE_VIDEO
-};
+  };
 
 export default routes;
