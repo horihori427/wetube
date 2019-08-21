@@ -4,7 +4,7 @@ export const videos = [
         title: 'video awesome',
         description: 'this it sparta',
         views: 35,
-        videoFile: "https://archive.org/details/BigBuckBunny_124",
+        videoFile: "https://ia800300.us.archive.org/17/items/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:121212,
             name: ":LCK",
@@ -16,7 +16,7 @@ export const videos = [
         title: 'list action',
         description: 'now tih is list',
         views: 634,
-        videoFile: "https://archive.org/details/BigBuckBunny_124",
+        videoFile: "https://ia800300.us.archive.org/17/items/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:343,
             name: ":List",
@@ -28,7 +28,7 @@ export const videos = [
         title: 'what is second',
         description: "what's the mean?",
         views: 664,
-        videoFile: "https://archive.org/details/BigBuckBunny_124",
+        videoFile: "https://ia800300.us.archive.org/17/items/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:615234,
             name: ":sec",
@@ -40,7 +40,7 @@ export const videos = [
         title: 'Tor is fighter',
         description: 'but he is looser',
         views: 35,
-        videoFile: "https://archive.org/details/BigBuckBunny_124",
+        videoFile: "https://ia800300.us.archive.org/17/items/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:121212,
             name: ":tor",
@@ -52,7 +52,7 @@ export const videos = [
         title: 'video',
         description: 'video',
         views: 3235,
-        videoFile: "https://archive.org/details/BigBuckBunny_124",
+        videoFile: "https://ia800300.us.archive.org/17/items/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:97215,
             name: ":LCK",
